@@ -1,31 +1,38 @@
-body{
+#about {
 
-    background-color: #C5DFFF;
+    padding-top: 12rem;
+    padding-bottom: 10rem;
 }
 
-#findme{
+#softskill {
 
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    background-color: #FFCFD9;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
 }
 
-.jumbotron {
-    padding-top: 6rem;
-    
+#tool {
+
+    padding-top: 5rem;
+    padding-bottom: 10rem;
 }
-  
-section {
+
+#certificates {
+
     padding-top: 5rem;
 }
 
-#about{
+#certificates-card {
 
-    padding-top: 6rem;
-
+    padding-top: 5rem;
+    padding-bottom: 6rem;
 }
 
-#portofolio{
+.carousel-indicators {
+
+    top: 350px;
+}
+
+#copyright {
 
     padding-top: 6rem;
 }
